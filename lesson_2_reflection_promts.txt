@@ -1,0 +1,1 @@
+when you initialize you make the .git directory that will track all the get changes.
