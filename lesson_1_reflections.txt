@@ -1,8 +1,0 @@
-The diff program made it really easy to see only what was different and not waste time looking at unchanged things.
-It would make it easier to go back to a working version and not have to start again.
-Auto will not be done at logical update times. It would make it very difficult to find usefull change levels.
-Mutiple save for a commit  will give easier roll back to previuos code.
-git log shows all the commits done.
-diff does changed from commits.
-Using git you can always go back to a working state if a change screws things up.
-It would bwe nice to use git to make software without havint o always start over.

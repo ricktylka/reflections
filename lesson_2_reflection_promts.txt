@@ -1,1 +1,2 @@
-when you initialize you make the .git directory that will track all the get changes.
+when you initialize you make the .git directory that will track all the git changes.
+staging area has not been comitted. it is where you would try out changes to see if you wanted to save them.
