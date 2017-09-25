@@ -1,2 +1,6 @@
 when you initialize you make the .git directory that will track all the git changes.
 staging area has not been comitted. it is where you would try out changes to see if you wanted to save them.
+branches are good to try out changes that may break stuff.
+diagrams show rhe evolution of the code.
+Merging brings a branch back into a big code base.
+Some barnches are just trials and will not be merged.
